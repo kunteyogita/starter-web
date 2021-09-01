@@ -15,4 +15,4 @@ instructions for the contribution
 As stated above, the main purpose is to provide simple examples for Git 
 
 ###Copyright
-2014 git Training
+2014 git Training. hello from yogita
