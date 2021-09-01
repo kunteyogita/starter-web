@@ -2,7 +2,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-hello to all
+hello to all,how are you all
 ## Introduction
 
 ## Deployement
